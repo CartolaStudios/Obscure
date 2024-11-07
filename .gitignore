@@ -1,0 +1,61 @@
+# Ignorar diretórios e arquivos do Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+
+# Ignorar arquivos de projeto
+*.unityproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.ds_store
+*.sln
+*.swp
+*.tmp
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Ignorar arquivos 3D
+*.fbx
+*.obj
+*.3ds
+*.dae
+*.blend
+
+# Ignorar texturas e imagens
+*.png
+*.jpg
+*.jpeg
+*.tga
+*.tiff
+*.bmp
+
+# Ignorar arquivos de áudio
+*.wav
+*.mp3
+*.ogg
+*.flac
+
+# Ignorar vídeos
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Ignorar outros arquivos grandes
+*.zip
+*.rar
+*.tar.gz
